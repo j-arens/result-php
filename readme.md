@@ -7,7 +7,6 @@ This is a partial port of the [Result](https://doc.rust-lang.org/std/result/) ty
 Basic usage is the same as in Rust.
 
 ```php
-// import { Result, ok, err } from '@j-arens/result';
 use O\Result\{ResultInterface, Ok, Err};
 
 // basic setting and getting of values
